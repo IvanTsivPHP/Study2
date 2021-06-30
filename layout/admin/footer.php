@@ -1,0 +1,2 @@
+<?php
+includeView('base\footer', '');

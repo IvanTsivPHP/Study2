@@ -1,0 +1,5 @@
+Email: <email>
+Hello, <username>! There is new post published here:
+<link>.
+If you want unsubscribe, please follow this link:
+<unsubLink>

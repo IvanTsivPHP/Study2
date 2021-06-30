@@ -1,0 +1,7 @@
+2021-05-12 16:45:04
+Email: admin@mail.com
+Hello, admin! There is new post published here:
+http://blog/post/39.
+If you want unsubscribe, please follow this link:
+blog/unsubscribe?id=28&validation_hash=40abc3a6b3179b9aef74d66e1f952d7a
+-------------------------
